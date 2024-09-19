@@ -1,4 +1,4 @@
-# PICO-8-3D-Graphics-Engine
+# PICO-8 3D Graphics Engine
 Here is all the code for the test scene for my 3D graphics engine written in PICO-8, as well as the 3D modeling program I wrote for it.
 
 This code isn't able to be run except in PICO-8, and is only here for show. This project was the product of around 2 years of work on and off, and unfortunately I don't have much to show for it. There is a single demo game I made in a day on my PICO-8 Blog linked below.
